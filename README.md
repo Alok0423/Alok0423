@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ishuu379@gmail.com**
 
-- 📄 Know about my experiences(https://media.licdn.com/dms/document/media/v2/D562DAQG-LK8EUUZ85w/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1734638372223?e=1762992000&v=beta&t=xHv2H2ObgWixGIChju503s4_d7gVUHYRuCrFIgvca58)
+[- 📄 Know about my experiences](https://media.licdn.com/dms/document/media/v2/D562DAQG-LK8EUUZ85w/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1734638372223?e=1762992000&v=beta&t=xHv2H2ObgWixGIChju503s4_d7gVUHYRuCrFIgvca58)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
