@@ -1,171 +1,132 @@
 <h1 align="center">Hi 👋, I'm Alok Sharma</h1>
-<h3 align="center">Full Stack Developer | ML & GenAI Enthusiast | India 🇮🇳</h3>
+<h3 align="center">
+Full Stack Developer • UI/UX Designer • GenAI & ML Enthusiast
+</h3>
+
+<p align="center">
+I build scalable web products, design clean user experiences, and experiment with AI-powered systems.
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/alok-sharma-097b74258/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alok%20Sharma-blue?style=flat&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Alok%20Sharma-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:ishuu379@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://instagram.com/alok0.423">
-    <img src="https://img.shields.io/badge/Instagram-Follow-purple?style=flat&logo=instagram">
+  <a href="https://aloksharma.framer.wiki/">
+    <img src="https://img.shields.io/badge/Portfolio-UI%2FUX-black?style=for-the-badge&logo=framer"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=alok0423&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=alok0423&style=flat-square&color=blue" />
 </p>
 
----
+<hr/>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-- 🔥 Passionate **Full Stack Developer** building scalable web applications  
-- 🤖 Learning **Machine Learning, Generative AI & Agentic AI**  
-- 🧠 Strong in **Backend APIs, Frontend Architecture & System Design**  
-- 💬 Ask me about **MERN Stack, REST APIs, UI/UX & Databases**  
-- 📄 <a href="https://media.licdn.com/dms/document/media/v2/D562DAQG-LK8EUUZ85w/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1734638372223?e=1762992000&v=beta&t=xHv2H2ObgWixGIChju503s4_d7gVUHYRuCrFIgvca58">View My Resume</a>
+- 🚀 Full Stack Developer with strong **frontend + backend ownership**
+- 🎨 UI/UX Designer focused on **usability, hierarchy & motion**
+- 🤖 Exploring **Machine Learning, Generative AI & Agentic AI**
+- 🧠 Thinks in **systems, APIs, data flow & user journeys**
+- 📄 <a href="https://media.licdn.com/dms/document/media/v2/D562DAQG-LK8EUUZ85w/profile-treasury-document-pdf-analyzed/profile-treasury-document-pdf-analyzed/0/1734638372223?e=1762992000&v=beta&t=xHv2H2ObgWixGIChju503s4_d7gVUHYRuCrFIgvca58">View Resume</a>
 
----
+<hr/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Work (What I’d Hire You For)
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 PPStack – AI Powered Learning Platform
-A full-stack EdTech platform with authentication, courses, and video lectures.
+### 🧠 PPStack — AI-Powered Learning Platform
+A production-ready EdTech platform focused on structured learning and scalability.
 
-**Tech:** React, Node.js, Express, MongoDB, Cloudinary  
-**Key Features:**
-- Role-based authentication
-- Course & lecture management
-- Scalable backend architecture
+**Stack:** React, Node.js, Express, MongoDB, Cloudinary  
+**Why it matters:**
+- Auth & role-based access (Admin / User)
+- Course & lecture lifecycle management
+- Clean UI + scalable backend architecture
 
-🔗 <a href="https://github.com/PPStack/ppstack-core">View Repository</a>
-
-</td>
-<td width="50%">
-
-### 🚕 Uber Clone (Backend Focused)
-A production-style backend project simulating Uber-like services.
-
-**Tech:** Node.js, Express, MongoDB, WebSockets  
-**Key Features:**
-- Real-time communication
-- RESTful APIs
-- Modular backend design
-
-🔗 <a href="https://github.com/alok0423/uber-video">View Repository</a>
+🔗 <a href="https://p-pstac.vercel.app/" target="_blank">Live Product</a>  
+🔗 <a href="https://github.com/PPStack/ppstack-core" target="_blank">Source Code</a>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Data Science & ML Projects
-Machine learning and data analysis projects on real-world datasets.
+### 🎨 UI/UX Portfolio — Framer
+A real portfolio showing how I think, design, and communicate visually.
 
-**Tech:** Python, Pandas, Scikit-learn, Seaborn  
-**Key Features:**
-- Data preprocessing & EDA
-- Model training & evaluation
-- Insightful visualizations
+**Tools:** Figma, Framer, UX Research  
+**Why it matters:**
+- Strong visual hierarchy
+- Smooth animations & interactions
+- Design decisions backed by UX thinking
 
-🔗 <a href="https://github.com/alok0423">Explore Projects</a>
-
-</td>
-<td width="50%">
-
-### 🎨 Frontend & UI/UX Experiments
-Modern frontend projects with smooth UI and responsive design.
-
-**Tech:** React, CSS, Figma, Framer  
-**Key Features:**
-- Pixel-perfect UI
-- Animations & transitions
-- UX-focused layouts
-
-🔗 <a href="https://github.com/alok0423">View Work</a>
+🔗 <a href="https://aloksharma.framer.wiki/" target="_blank">View Portfolio</a>
 
 </td>
 </tr>
 </table>
 
----
+<hr/>
 
-## 🧑‍💻 Tech Stack
+## 🛠 Tech Stack
 
-### 🌐 Frontend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-</p>
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=light"/>
 
-### ⚙️ Backend & Databases
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-</p>
+### Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&theme=light"/>
 
-### 📊 Data, ML & AI
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="40"/>
-</p>
+### Data, ML & AI
+<img src="https://skillicons.dev/icons?i=python&theme=light"/>
+<br/>
+Pandas • Scikit-learn • Seaborn
 
-### 🛠 Tools & Design
-<p>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
-</p>
+### Tools & Design
+<img src="https://skillicons.dev/icons?i=git,figma,postman,framer&theme=light"/>
 
----
+<hr/>
 
-## 🏆 GitHub Achievements
+## 🏆 Achievements & Proof of Work.
+
+✅ Built and deployed **multiple real-world projects**  
+✅ Designed and shipped **UI/UX case studies**, not Dribbble fluff  
+✅ Experience with **full product lifecycle** (idea → build → deploy)  
+✅ Comfortable working across **frontend, backend & design**  
+✅ Consistent GitHub activity with meaningful commits  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alok0423&theme=gruvbox&row=1&column=6"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alok0423&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alok0423&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok0423&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alok0423&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alok0423&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok0423&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<hr/>
 
 ## ☕ Support My Work
 
 <p align="center">
   <a href="https://buymeacoffee.com/alok0423">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="200"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
 </p>
 
----
+<hr/>
 
-<h3 align="center">🚀 Open to Full-Time Roles | Internships | Freelance</h3>
-<h4 align="center">Let’s build something impactful together</h4>
+<h3 align="center">
+🚀 Open to Full-Time Roles • Internships • Freelance
+</h3>
+<h4 align="center">
+If you’re hiring someone who can build AND think — let’s talk.
+</h4>
